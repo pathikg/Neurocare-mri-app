@@ -24,6 +24,8 @@ procedures and research. However,The process of an MRI scan can be quite a hassl
 * Forwarding the segmentation results to patient with respective prescription and description
 
 
+![image](https://user-images.githubusercontent.com/55437218/182212580-7678b515-fac4-49e7-9b2e-1cdb1769c684.png)
+
 ---
 
 
