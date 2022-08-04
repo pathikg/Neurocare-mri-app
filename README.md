@@ -31,7 +31,7 @@ procedures and research. However,The process of an MRI scan can be quite a hassl
 
 Dataset used : [Brain Tumor Segmentation(BraTS2020)](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data)
 
-Code and Docs : https://drive.google.com/file/d/1-4usZdf3qB6R6FTXbpNU4kVwxetOycbI/view?usp=sharing
+Code and Docs : https://drive.google.com/drive/folders/1-zSCaVbWSv3dOxV74eeFgH0ecXujqCcp?usp=sharing
 
 ---
 
